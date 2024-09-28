@@ -1,4 +1,4 @@
-[
+const FilmsData = [
   {
     "Title": "Avatar",
     "Year": "2009",
@@ -469,3 +469,5 @@
     ]
   }
 ]
+
+export default FilmsData;
